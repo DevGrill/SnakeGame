@@ -1,4 +1,4 @@
-# Snake V1.0.0
+# Snake V1.0.1
 
 This is a Snake game made with java. I made it as a little project. There are leaderboards such as 3 different modes.
 
@@ -16,12 +16,16 @@ username or password yet.
 There is a leaderboard for every mode.
 ```
 
-## Version: 1.0.0
+## Version: 1.0.1
 * 3 Modes
 * 3 Leaderboards
 * Database Save for highscores
 * Accounts (register and login)
 
+## New in 1.0.1
+* No more Database Errors
+* Faster Database connection
+* Highscores from beta uploaded. 
 
 ## Modes:
 * Mode1: Classic snake, but you get faster when you eat an apple.
